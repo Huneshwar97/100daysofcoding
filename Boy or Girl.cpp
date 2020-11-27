@@ -17,7 +17,6 @@ int main(){
         if(a[i]>=1)
             count++;
     }
-    cout<<count;
     if(count%2==0) cout<<"CHAT WITH HER!";
     else cout<<"IGNORE HIM!";
     return 0;
